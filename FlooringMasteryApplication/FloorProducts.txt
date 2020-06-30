@@ -1,0 +1,8 @@
+ProductType,CostPerSquareFoot,LaborCostPerSquareFoot
+Carpet,5.25,5.10
+Laminate,6.75,5.10
+Tile,6.50,5.15
+Wood,5.15,4.75
+Cork,7.50,4.00
+Stone,8.75,6.00
+Vinyl,5.75,4.95

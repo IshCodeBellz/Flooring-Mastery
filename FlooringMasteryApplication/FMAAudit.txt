@@ -1,0 +1,117 @@
+2020-06-25T11:24:21.603 : Order #1 for date 2020-06-25 ADDED.
+2020-06-25T13:27:18.154 : Order #2 for date 2020-06-25 ADDED.
+2020-06-25T13:53:31.091 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] EDITED.
+2020-06-25T14:07:45.706 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] EDITED.
+2020-06-25T14:07:49.328 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] EDITED.
+2020-06-25T14:07:52.147 : Order #2 for date 2020-06-25 CANCELLED.
+2020-06-25T15:05:17.238 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] EDITED.
+2020-06-25T15:05:22.059 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] EDITED.
+2020-06-25T15:05:25.081 : Order #2 for date 2020-06-25 CANCELLED.
+2020-06-25T15:16:16.786 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39] EDITED.
+2020-06-25T15:17:06.334 : Order #3 for date 2020-06-25 ADDED.
+2020-06-25T15:17:38.929 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cb2fc9cc] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@686e4d39, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cb2fc9cc] EDITED.
+2020-06-25T15:18:07.107 : Order #2 for date 2020-06-25 EDITED.
+2020-06-25T15:18:27.680 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@dc71797f, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cb2fc9cc] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@dc71797f, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cb2fc9cc] EDITED.
+2020-06-25T15:18:34.021 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@dc71797f, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cb2fc9cc] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@dc71797f, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cb2fc9cc] EDITED.
+2020-06-25T15:18:37.661 : Order #2 for date 2020-06-25 CANCELLED.
+2020-06-25T15:18:49.241 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@dc71797f, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cb2fc9cc] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@2698b2d, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@dc71797f, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cb2fc9cc] EDITED.
+2020-06-25T15:54:03.073 : Order #4 for date 2020-06-25 ADDED.
+2020-06-25T15:54:14.140 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de] EDITED.
+2020-06-25T15:59:13.702 : Order #5 for date 2020-06-25 ADDED.
+2020-06-25T16:01:08.880 : Order #6 for date 2020-06-25 ADDED.
+2020-06-25T16:05:36.550 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] EDITED.
+2020-06-25T16:05:53.975 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] EDITED.
+2020-06-25T16:05:56.692 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] EDITED.
+2020-06-25T16:05:58.809 : Order #6 for date 2020-06-25 CANCELLED.
+2020-06-25T16:06:10.694 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] EDITED.
+2020-06-25T16:11:06.846 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] EDITED.
+2020-06-25T16:11:10.972 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764] EDITED.
+2020-06-25T16:11:13.591 : Order #6 for date 2020-06-25 CANCELLED.
+2020-06-25T16:32:00.331 : Order #7 for date 2020-06-25 ADDED.
+2020-06-25T16:32:20.692 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@75e443da] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@75e443da] EDITED.
+2020-06-25T16:33:32.098 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@75e443da] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@75e443da] EDITED.
+2020-06-25T16:33:35.129 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@75e443da] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@75e443da] EDITED.
+2020-06-25T16:33:37.127 : Order #7 for date 2020-06-25 CANCELLED.
+2020-06-25T16:44:56.375 : Order #8 for date 2020-06-26 ADDED.
+2020-06-25T16:47:13.220 : Order #9 for date 2020-06-26 ADDED.
+2020-06-25T16:56:37.392 : Order #10 for date 2020-06-26 ADDED.
+2020-06-25T16:58:31.957 : Order #11 for date 2020-06-26 ADDED.
+2020-06-25T16:58:42.396 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@75e443da] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@cfae19de, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@fbc0b5fa, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6fe63764, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@75e443da] EDITED.
+2020-06-25T17:01:36.619 : Order #12 for date 2020-06-26 ADDED.
+2020-06-25T17:03:18.668 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e] EDITED.
+2020-06-25T17:03:27.056 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e] EDITED.
+2020-06-25T17:03:29.871 : Order #9 for date 2020-06-26 CANCELLED.
+2020-06-25T17:12:37.123 : Order #13 for date 2020-06-26 ADDED.
+2020-06-25T17:13:14.794 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8d4a0b9d] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8d4a0b9d] EDITED.
+2020-06-25T17:13:19.961 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8d4a0b9d] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8d4a0b9d] EDITED.
+2020-06-25T17:13:22.357 : Order #13 for date 2020-06-26 CANCELLED.
+2020-06-25T17:45:31.562 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8d4a0b9d] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8d4a0b9d] EDITED.
+2020-06-25T17:46:03.255 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8d4a0b9d] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8d4a0b9d] EDITED.
+2020-06-25T17:46:35.866 : Order #[bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8d4a0b9d] for date [bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@9a9bbfbf, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@d9a157f7, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8509815e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@4aa19ff2, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@6de10d1e, bello.ishcodebellz.flooringmasteryapplication.dto.FMAOrder@8d4a0b9d] EDITED.
+2020-06-25T17:46:44.664 : Order #8 for date 2020-06-26 CANCELLED.
+2020-06-25T17:49:20.907 : Order #14 for date 2020-06-26 ADDED.
+2020-06-25T17:57:59.970 : Order #15 for date 2020-06-26 ADDED.
+2020-06-25T18:00:10.896 : Loading all orders 
+2020-06-25T18:00:30.472 : Order #15 for date 2020-06-26 EDITED.
+2020-06-25T18:02:26.285 : Loading all orders 
+2020-06-25T18:02:32.832 : Loading all orders 
+2020-06-25T18:02:35.043 : Order #15 for date 2020-06-26 CANCELLED.
+2020-06-25T18:21:09.103 : Loading all orders 
+2020-06-25T18:21:42.076 : Loading all orders 
+2020-06-25T18:21:49.750 : Order #14 for date 2020-06-26 CANCELLED.
+2020-06-25T19:37:32.090 : Order #16 for date 2020-06-26 ADDED.
+2020-06-25T19:43:22.051 : Loading all orders 
+2020-06-25T19:45:56.064 : Order #17 for date 2020-06-26 ADDED.
+2020-06-25T22:17:34.974 : Loading all orders 
+2020-06-25T22:18:41.087 : Loading all orders 
+2020-06-25T22:18:45.120 : Loading all orders 
+2020-06-25T22:18:49.658 : Order #8 for date 2020-06-26 CANCELLED.
+2020-06-25T22:19:51.315 : Loading all orders 
+2020-06-25T22:19:56.446 : Loading all orders 
+2020-06-25T22:19:59.064 : Order #17 for date 2020-06-26 CANCELLED.
+2020-06-26T08:24:11.025 : Loading all orders 
+2020-06-26T08:24:59.920 : Loading all orders 
+2020-06-26T08:25:04.869 : Loading all orders 
+2020-06-26T08:25:07.397 : Order #17 for date 2020-06-26 CANCELLED.
+2020-06-26T11:11:19.199 : Loading all orders 
+2020-06-26T11:11:25.224 : Loading all orders 
+2020-06-26T11:11:26.639 : Order #17 for date 2020-06-26 CANCELLED.
+2020-06-26T11:18:49.254 : Order #18 for date 2020-06-26 ADDED.
+2020-06-26T13:03:45.230 : Order #19 for date 2020-06-26 ADDED.
+2020-06-26T13:24:09.488 : Order #20 for date 2020-06-26 ADDED.
+2020-06-26T14:22:22.734 : Order #21 for date 2020-06-27 ADDED.
+2020-06-26T14:25:19.913 : Order #22 for date 2020-06-27 ADDED.
+2020-06-26T14:28:58.523 : Loading all orders 
+2020-06-26T14:29:28.050 : Loading all orders 
+2020-06-26T14:29:31.170 : Order #22 for date 2020-06-27 CANCELLED.
+2020-06-26T14:52:10.622 : Order #23 for date 2020-06-27 ADDED.
+2020-06-26T14:52:48.651 : Loading all orders 
+2020-06-26T14:52:52.176 : Loading all orders 
+2020-06-26T14:52:53.887 : Order #23 for date 2020-06-27 CANCELLED.
+2020-06-26T14:53:46.143 : Order #24 for date 2020-06-27 ADDED.
+2020-06-26T15:36:06.315 : Order #25 for date 2020-06-28 ADDED.
+2020-06-26T15:36:38.361 : Order #26 for date 2020-06-28 ADDED.
+2020-06-26T15:37:20.802 : Order #27 for date 2020-06-28 ADDED.
+2020-06-26T15:37:28.402 : Loading all orders 
+2020-06-26T15:37:53.876 : Loading all orders 
+2020-06-26T15:38:17.995 : Order #27 for date 2020-06-28 EDITED.
+2020-06-26T15:39:41.919 : Loading all orders 
+2020-06-26T15:39:45.004 : Loading all orders 
+2020-06-26T15:39:47.092 : Order #27 for date 2020-06-28 CANCELLED.
+2020-06-27T08:12:14.328 : Loading all orders 
+2020-06-27T11:28:56.926 : Loading all orders 
+2020-06-27T11:29:42.294 : Order #28 for date 2020-06-28 ADDED.
+2020-06-27T11:30:31.776 : Order #29 for date 2020-06-28 ADDED.
+2020-06-27T11:31:06.891 : Order #30 for date 2020-06-28 ADDED.
+2020-06-27T11:32:41.602 : Loading all orders 
+2020-06-27T11:33:05.026 : Order #29 for date 2020-06-28 EDITED.
+2020-06-27T11:33:40.961 : Loading all orders 
+2020-06-27T11:33:52.294 : Loading all orders 
+2020-06-27T11:33:57.859 : Order #30 for date 2020-06-28 CANCELLED.
+2020-06-27T11:42:19.770 : Loading all orders 
+2020-06-27T11:43:04.857 : Order #31 for date 2020-06-29 ADDED.
+2020-06-27T11:43:46.890 : Loading all orders 
+2020-06-27T11:44:12.832 : Order #31 for date 2020-06-29 EDITED.
+2020-06-27T11:44:46.454 : Loading all orders 
+2020-06-27T11:44:49.790 : Loading all orders 
+2020-06-27T11:44:52.517 : Order #31 for date 2020-06-29 CANCELLED.
